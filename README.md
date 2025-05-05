@@ -8,11 +8,13 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Java, JavaScript, SQL, Bash, Golang, C 
-- **Frameworks & Tools:** Flask, Node.js, Express, React, Docker  
-- **Cloud & Infrastructure:** AWS (EC2, Lambda, S3), Azure, Terraform  
+- **Operating Systems:**  Windows, Linux, Mac OS, iOS, Android 
+- **Programming Languages:** Java, JavaScript, MySQL, Python, HTML, C (beginner), Golang   
+- **Software:** IntelliJ IDEA, AWS, Autopsy, EXCEL, Android Studios, Word Press, 
+- Visual Studio 
 - **Cybersecurity Interests:** Malware analysis, digital forensics, reverse engineering  
-- **Other:** Git, Linux, REST APIs, Agile, CI/CD  
+- **Other:** Git, Linux, REST APIs, Agile, CI/CD, Computer assembly, Network security, Cloud infrastructure, AI-model 
+finetuning 
 
 ---
 
