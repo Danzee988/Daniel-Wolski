@@ -10,8 +10,7 @@
 
 - **Operating Systems:**  Windows, Linux, Mac OS, iOS, Android 
 - **Programming Languages:** Java, JavaScript, MySQL, Python, HTML, C (beginner), Golang   
-- **Software:** IntelliJ IDEA, AWS, Autopsy, EXCEL, Android Studios, Word Press, 
-- Visual Studio 
+- **Software:** IntelliJ IDEA, AWS, Autopsy, EXCEL, Android Studios, Word Press, Visual Studio 
 - **Cybersecurity Interests:** Malware analysis, digital forensics, reverse engineering  
 - **Other:** Git, Linux, REST APIs, Agile, CI/CD, Computer assembly, Network security, Cloud infrastructure, AI-model 
 finetuning 
@@ -20,7 +19,7 @@ finetuning
 
 ## 🔍 Featured Projects
 
-- 🚀 **AI-Based Malware Classifier** – A large language model responsible for detecting malware inside PE file with the use of static analysis, integrated with blockchain for quick and tamper-proof storage
+- 🚀 **AI-Based Malware Detection System** – A large language model responsible for detecting malware inside PE file with the use of static analysis, integrated with blockchain for quick and tamper-proof storage
 - 🛡️ **Custom Fitness Tracker** – Personalised fitness tracker, which allows the user to create, modify and track their fitness progress in teh gym and keep track of their runs  
 
 Check out my pinned repositories below 👇
