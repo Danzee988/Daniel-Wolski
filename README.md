@@ -20,7 +20,6 @@
 
 - 🚀 **AI-Based Malware Classifier** – A large language model responsible for detecting malware inside PE file with the use of static analysis, integrated with blockchain for quick and tamper-proof storage
 - 🛡️ **Custom Fitness Tracker** – Personalised fitness tracker, which allows the user to create, modify and track their fitness progress in teh gym and keep track of their runs  
-- 🔗 **somethiing** – Built a secure voting platform using smart contracts and Ethereum
 
 Check out my pinned repositories below 👇
 
